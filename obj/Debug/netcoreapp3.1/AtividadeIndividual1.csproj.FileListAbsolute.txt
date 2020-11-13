@@ -1,0 +1,13 @@
+C:\Users\dev\Desktop\AtividadeIndividual1\obj\Debug\netcoreapp3.1\AtividadeIndividual1.csprojAssemblyReference.cache
+C:\Users\dev\Desktop\AtividadeIndividual1\obj\Debug\netcoreapp3.1\AtividadeIndividual1.AssemblyInfoInputs.cache
+C:\Users\dev\Desktop\AtividadeIndividual1\obj\Debug\netcoreapp3.1\AtividadeIndividual1.AssemblyInfo.cs
+C:\Users\dev\Desktop\AtividadeIndividual1\obj\Debug\netcoreapp3.1\AtividadeIndividual1.csproj.CoreCompileInputs.cache
+C:\Users\dev\Desktop\AtividadeIndividual1\bin\Debug\netcoreapp3.1\AtividadeIndividual1.exe
+C:\Users\dev\Desktop\AtividadeIndividual1\bin\Debug\netcoreapp3.1\AtividadeIndividual1.deps.json
+C:\Users\dev\Desktop\AtividadeIndividual1\bin\Debug\netcoreapp3.1\AtividadeIndividual1.runtimeconfig.json
+C:\Users\dev\Desktop\AtividadeIndividual1\bin\Debug\netcoreapp3.1\AtividadeIndividual1.runtimeconfig.dev.json
+C:\Users\dev\Desktop\AtividadeIndividual1\bin\Debug\netcoreapp3.1\AtividadeIndividual1.dll
+C:\Users\dev\Desktop\AtividadeIndividual1\bin\Debug\netcoreapp3.1\AtividadeIndividual1.pdb
+C:\Users\dev\Desktop\AtividadeIndividual1\obj\Debug\netcoreapp3.1\AtividadeIndividual1.dll
+C:\Users\dev\Desktop\AtividadeIndividual1\obj\Debug\netcoreapp3.1\AtividadeIndividual1.pdb
+C:\Users\dev\Desktop\AtividadeIndividual1\obj\Debug\netcoreapp3.1\AtividadeIndividual1.genruntimeconfig.cache
